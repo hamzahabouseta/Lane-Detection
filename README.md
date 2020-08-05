@@ -1,4 +1,4 @@
-# Lane-Detection-Analysis
+# Lane-Detection
 An OpenCV program to detect lanes for self-driving cars
 
 
